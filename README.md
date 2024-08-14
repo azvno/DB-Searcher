@@ -26,5 +26,10 @@
 ## Lien :
 - https://mega.nz/folder/G5py1CYB#aZyuZ_1YuVM6_COYtvT12A
 
+# Discord :
+https://discord.gg/b3EX5VEjQg
+
+## Version : 1.8
+
 # Auteur :
 - Ce script a été développé par @azvno.
