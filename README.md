@@ -6,7 +6,7 @@
 # Fonctionnalités principales :
 
 ## Recherche avancée :
-- Vous pouvez rechercher un ou plusieurs termes à travers différents fichiers textuels. Le script utilise la commande findstr pour effectuer ces recherches, garantissant des résultats rapides et précis.
+- Vous pouvez rechercher un ou plusieurs termes à travers différents fichiers textuels. Le script utilise la commande findstr pour effectuer ces recherches, garantissant des résultats rapides et précis. L'outil à une rapidité de 36M de lignes rechercher par 6 secondes.
 
 ## Interface utilisateur :
 - L'interface utilise des animations et des couleurs pour améliorer l'expérience utilisateur. Par exemple, la fonction slowType permet un affichage progressif du texte, rendant l'utilisation de l'outil plus interactive.
