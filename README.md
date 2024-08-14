@@ -23,5 +23,8 @@
 ## Utilisation :
 - Le script est principalement utilisé en ligne de commande et nécessite Python. Il est destiné aux utilisateurs avancés qui ont besoin d'explorer des bases de données textuelles de manière rapide et sécurisée.
 
+## Lien :
+- https://mega.nz/folder/G5py1CYB#aZyuZ_1YuVM6_COYtvT12A
+
 # Auteur :
 - Ce script a été développé par @azvno.
