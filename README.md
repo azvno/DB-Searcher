@@ -1,4 +1,4 @@
-# DB-Searcher
+> # 💻 DB-Searcher
 
 # Description :
 - L'outil DB Searcher est un script conçu pour effectuer des recherches avancées de texte au sein de fichiers situés dans un répertoire spécifique. Il permet aux utilisateurs de rechercher des termes spécifiques dans une base de données textuelle, offrant ainsi une manière rapide et efficace de trouver des informations précises dans de grands volumes de fichiers.
